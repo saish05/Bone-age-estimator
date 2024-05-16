@@ -1,0 +1,9 @@
+Python 3.x
+TensorFlow
+Keras
+NumPy
+Pandas
+SciPy
+Matplotlib
+Seaborn
+scikit-image
