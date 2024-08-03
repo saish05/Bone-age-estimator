@@ -10,6 +10,10 @@ This repository contains the code and resources for training a deep learning mod
 
 The dataset used for this project is the RSNA Bone Age dataset, which consists of X-ray images of hands along with corresponding bone age labels.
 
+
+![trained_image_predictions](https://github.com/user-attachments/assets/8ead3544-9111-46c5-8381-d84b8dddfe6e)
+
+
 ## Preprocessing Techniques
 
 The following preprocessing techniques were applied to the X-ray images:
@@ -18,6 +22,9 @@ The following preprocessing techniques were applied to the X-ray images:
 3. Sobel Edge Detection
 4. Canny Edge Detector
 5. Thresholding
+
+   ![Pre_processing ](https://github.com/user-attachments/assets/e772dd3e-2db3-48da-adc1-94da239b1db1)
+
 
 ## Model Architecture
 
